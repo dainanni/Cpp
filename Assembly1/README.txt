@@ -1,1 +1,1 @@
-Check attached pdf for more details on program :)
+This is a program that was used to read in a data file of inputs and compare/see the time complexities that would arise when different ADTs (Abstract Data Types) were used to store the different given file values to us.
